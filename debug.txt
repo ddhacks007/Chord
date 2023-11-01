@@ -1,0 +1,70 @@
+le successfully!set the finger table successfully!
+
+
+set the finger table successfully!Calling Update Sucessor at 
+1 to 25 
+Calling Update Sucessor at 25 to 1 
+Telling Telling 25 to update 1 as predecessor
+1 to update 25 as predecessor
+Trying to find 195 from 1 source is [akka://MySystem/user/actor1#2013638172]
+key: 195 found at node 1
+Node [akka://MySystem/user/actor1#2013638172] and id 1 
+trying to retrieve 195
+Received actorRef: [akka://MySystem/user/actor1#2013638172] with id 1
+Calling Update Sucessor at 195 to 1 
+Adding key 3
+Adding key 11
+Adding key 27
+Adding key 59
+requesting successor 1 to find 3 from 195
+requesting successor 1 to find 11 from 195
+requesting successor 1 to find 27 from 195
+requesting successor 1 to find 59 from 195
+Trying to find 3 from 1 source is [akka://MySystem/user/actor195#757338083]
+Trying to find 11 from 1 source is [akka://MySystem/user/actor195#757338083]
+Trying to find 27 from 1 source is [akka://MySystem/user/actor195#757338083]
+Trying to find 59 from 1 source is [akka://MySystem/user/actor195#757338083]
+key: 27 found at node 195
+key: 59 found at node 195
+Trying to find 3 from 25 source is [akka://MySystem/user/actor195#757338083]
+Trying to find 11 from 25 source is [akka://MySystem/user/actor195#757338083]
+key: 3 found at node 1
+key: 11 found at node 1
+sending to [akka://MySystem/user/actor195#757338083] about the key
+key: 11 found at node 195
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+195  predecessor is 195  
+^C%                                                                                                                                                                                                                (base) deepakraju@Deepaks-MacBook-Pro Chord % 
+(base) deepakraju@Deepaks-MacBook-Pro Chord % 
